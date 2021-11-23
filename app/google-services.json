@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872006101104",
+    "project_id": "loginact-3c57f",
+    "storage_bucket": "loginact-3c57f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872006101104:android:fbc4f98a442884ea57acb5",
+        "android_client_info": {
+          "package_name": "com.example.loginact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872006101104-5hqu4h88aqtcvg2mcpeskk500pq5cpha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlqTNO1vSnqS5PZPDlUWZC76RoWu-qsQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872006101104-5hqu4h88aqtcvg2mcpeskk500pq5cpha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
